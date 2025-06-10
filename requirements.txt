@@ -1,0 +1,9 @@
+numpy==1.23.5
+gymnasium==0.29.1
+pettingzoo==1.24.3
+treys==0.1.8
+pygame==2.6.1
+ray[rllib]==2.7.0
+wandb==0.14.2
+pydantic==1.9.1
+
