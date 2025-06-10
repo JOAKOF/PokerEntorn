@@ -39,5 +39,5 @@ S’han implementat i entrenat dues aproximacions:
 ## 📎 Treball de Fi de Grau
 
 Pots consultar el document complet del TFG aquí:  
-📄 [Descarrega el PDF](./TFG_Joaquin_Flores.pdf)
+📄 [Descarrega el PDF](./PokerEntorn.pdf)
 
